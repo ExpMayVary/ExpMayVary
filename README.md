@@ -1,7 +1,7 @@
 ### Hi there 👋
 
-- ✏ I'm a Artist who wishes to display there craft in intresting ways 
-- 🔭 I’m currently working on a story driven videogame made with the godot engine. 
+- ✏ I'm a Software Engineer who wishes to display there craft in intresting ways 
+- 🔭 I’m currently working on a Machine Learning Book Reccomendation engine. 
 - 🌱 I’m currently learning Node.js and MongoDB.
 - 🎈 I'm proficenet in HTML, CSS, JavaScript, React and Python 
 - 📫 reach me via email at experiencemayvary@gmail.com.
